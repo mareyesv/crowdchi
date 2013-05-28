@@ -1,11 +1,11 @@
-pt:
+es:
   current_update: 'Alteração atual feita em '
   'no': "Não"
   'yes': "Sim"
   or: "ou"
 
   site:
-    title: "A maior comunidade de crowdfunding do Brasil!"
+    title: "Primer Crowdfunding en Chile"
     meta_title:  "%{title} · %{company_name}"
     description: "O Catarse é uma ferramenta diferente – e colaborativa – para tirar o seu projeto do papel!"
     keywords: "catarse, crowdfunding, projeto, comunidade, open source"
