@@ -1,6 +1,6 @@
-# Catarse 
+# Crowf Chi 
 
-The first crowdfunding platform from Brazil
+Primera Version, espero que podamos trabajar por aca.
 
 
 ## Code & Build Status
