@@ -11,7 +11,7 @@ es:
     keywords: "catarse, crowdfunding, projeto, comunidade, open source"
 
   backer_report_to_project_owner:
-    reward_description: 'Descrição da recompensa'
+    reward_description: 'Descripcion  de recompensa'
     confirmed_at: 'Data da confirmação do pagamento'
     value: 'Valor do apoio'
     service_fee: 'Taxa do Catarse'
